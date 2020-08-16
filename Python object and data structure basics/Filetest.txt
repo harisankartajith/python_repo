@@ -1,7 +1,0 @@
-This is the new line overwrote here.
-This is the appended text.
-This must be the third line.
-And another line here.
-This is the IPython appended text.
-The End...
-# Oh! comment also appended.
